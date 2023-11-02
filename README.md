@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DhanalakshmiSengottaiyan
 - 👀 I’m interested in exploring, analysing and deriving **DATA** patterns and implementing the same in Stock markets.
 - 🌱 I’m currently learning Master's Course in Data science.
-- 💞️ I’m looking to collaborate on machine learning w.rt.Banking,Financial,Healthcare sector in addition to image processing projects involving deep learning.
+- 💞️ I’m looking to collaborate on machine learning w.rt.Banking,Financial,Markets - Equities & Index Option trading,Retail,Insurance and Healthcare sector in addition to image processing projects involving deep learning.
 - 📫 Reach me via ppsdhanalakshmi@gmail.com
 
 <!---
